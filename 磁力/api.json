@@ -1,8 +1,6 @@
 {
-    "spider": "http://127.0.0.1:9978/file/TVBoxOSC/本地仓/spider.jar",
-    "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
-    "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
-    "danmaku": "http://127.0.0.1:9978/proxy?do=danmaku&name={name}&episode={episode}",
+    "spider": "./spider.jar",
+    
     "sites": [
         {
             "key": "豆瓣",
